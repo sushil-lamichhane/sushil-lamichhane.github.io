@@ -1,0 +1,15 @@
+title: Sushil Lamichhane
+description: Personal blog on data science, GeoAI, cloud, and software engineering.
+theme: minima
+
+author:
+  name: Sushil Lamichhane
+
+header_pages:
+  - about.md
+  - blog.md
+  - projects.md
+  - contact.md
+
+plugins:
+  - jekyll-feed
